@@ -1,14 +1,20 @@
 
-Hi, my name is Lance. I find great interest in open source, startups, computer science, math, language, the universe, and the mind.
+I find great interest in open source, startups, computer science, math, language, the universe, and the mind.
 
-I recently have open sourced Hanakana.js, an script with a prototype font for cross-language writing and pronunciation.
+Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js), a script and prototype font for cross-language writing and pronunciation.
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 <p align='center'>
   <img src='https://github.com/lancejpollard/hanakana.js/blob/build/title.png?raw=true' width='500'/>
 </p>
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 Making movement toward the center.
