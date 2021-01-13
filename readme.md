@@ -1,7 +1,7 @@
 
 <p align="center">I find great interest in open source, startups, computer science, math, language, the universe, and the mind.</p>
 
-<p align="center">Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js), a script and prototype font for cross-language writing and pronunciation.</p>
+<p align="center">Recently open sourced <a href="https://github.com/lancejpollard/hanakana.js">Hanakana.js</a>, a script and prototype font for cross-language writing and pronunciation.</p>
 
 <br/>
 <br/>
