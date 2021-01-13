@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<p align="center">Making movement toward the center. Working on models of computation.</p>
+<p align="center">Making movement toward the center. Working on models of information and computation.</p>
 
 <p align="center">Working full time and hanging out with my wonderful wife and puppy.</p>
 
