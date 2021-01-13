@@ -1,7 +1,7 @@
 
-I find great interest in open source, startups, computer science, math, language, the universe, and the mind.
+<p align="center">I find great interest in open source, startups, computer science, math, language, the universe, and the mind.</p>
 
-Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js), a script and prototype font for cross-language writing and pronunciation.
+<p align="center">Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js), a script and prototype font for cross-language writing and pronunciation.</p>
 
 <br/>
 <br/>
@@ -17,8 +17,8 @@ Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js
 <br/>
 <br/>
 
-Making movement toward the center. Working on models of computation.
+<p align="center">Making movement toward the center. Working on models of computation.</p>
 
-Working full time and hanging out with my wonderful wife and puppy.
+<p align="center">Working full time and hanging out with my wonderful wife and puppy.</p>
 
 Find me on [StackOverflow](https://stackoverflow.com/users/169992/lance-pollard) or [LinkedIn](https://www.linkedin.com/in/lancejpollard/).
