@@ -17,10 +17,10 @@
 <br/>
 <br/>
 
-<p align="center">Making movement toward the center.</p>
-
-<p align="center">Working on models of information and computation.</p>
-
-<p align="center">Hanging out with my wonderful wife and puppy.</p>
+<p align="center">
+Making movement toward the center.<br/>
+Working on models of information and computation.<br/>
+Hanging out with my wonderful wife and puppy.
+</p>
 
 <p align="center">Find me on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.</p>
