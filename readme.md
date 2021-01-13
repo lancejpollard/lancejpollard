@@ -17,8 +17,8 @@ Recently open sourced [Hanakana.js](https://github.com/lancejpollard/hanakana.js
 <br/>
 <br/>
 
-Making movement toward the center.
+Making movement toward the center. Working on models of computation.
 
-Working on models of computation and working full time and hanging out with my wonderful wife.
+Working full time and hanging out with my wonderful wife and puppy.
 
 Find me on [StackOverflow](https://stackoverflow.com/users/169992/lance-pollard) or [LinkedIn](https://www.linkedin.com/in/lancejpollard/).
