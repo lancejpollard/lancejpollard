@@ -3,10 +3,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <p align="center">
 I find great interest in open source, startups, computer science, math, language, the universe, and the mind.<br/>
