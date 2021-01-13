@@ -1,0 +1,2 @@
+
+Hi, my name is Lance. I find great interest in open source, computer science, math, language, and the mind. I recently have open sourced Hanakana.js, an initial font for cross-language writing and pronunciation.
