@@ -25,7 +25,7 @@ Recently open sourced <a href="https://github.com/lancejpollard/hanakana.js">han
 
 <p align="center">
 Making movement toward the center.<br/>
-Working on models of information and computation.<br/>
+Enjoying playing with models of information and computation.<br/>
 Hanging out with my wonderful wife and puppy.
 </p>
 
