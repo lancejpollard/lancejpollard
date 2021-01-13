@@ -21,4 +21,4 @@
 
 <p align="center">Working full time and hanging out with my wonderful wife and puppy.</p>
 
-Find me on [StackOverflow](https://stackoverflow.com/users/169992/lance-pollard) or [LinkedIn](https://www.linkedin.com/in/lancejpollard/).
+<p align="center">Find me on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.</p>
