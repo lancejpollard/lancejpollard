@@ -22,7 +22,7 @@ I find great interest in math, life, science, religion, language, government, an
   If you have the truth and you are on the left, I want to talk to you.<br/>
   Otherwise I will keep on thinking.<br/>
   Detached from the community stream.<br/>
-  <b>And figure out a model myself.</b>
+  And figure out what's going on myself.
 </p>
 
 <p align="center">
