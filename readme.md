@@ -8,8 +8,8 @@
 Life<br/>
 Math<br/>
 Science<br/>
-Business<br/>
 Religion<br/>
+Business<br/>
 Language<br/>
 Government
 </p>
