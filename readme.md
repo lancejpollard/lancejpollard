@@ -32,8 +32,6 @@ Government
 </p>
 
 <p align="center">
-I<br/>
-am<br/>
 Lance<br/>
 Joseph<br/>
 Pollard
