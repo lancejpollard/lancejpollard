@@ -24,13 +24,6 @@ Government
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=MM62wjLrgmA">Making movement toward the center</a>.<br/>
-  Archived on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.<br/>
-Hanging out with my wonderful wife and puppy.<br/>
-  <a href="https://www.youtube.com/watch?v=FssULNGSZIA">Playing with models of information and computation</a>.
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s">I will keep digging until I find something</a>.<br/>
   <a href="https://www.youtube.com/watch?v=mBgviceBzFs#t=5m20s">I will feel the power and ride the spiral until the end</a>.<br/>
   <a href="https://www.youtube.com/watch?v=GIuZUCpm9hc#t=2m55s">I want to feel metamorphosis I've endured within my shadow</a>.<br/>
