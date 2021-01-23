@@ -24,8 +24,8 @@ Business
 </p>
 
 <p align="center">
-  If you have the truth and you are on the right, I want to talk to you.<br/>
-  If you have the truth and you are on the left, I want to talk to you.<br/>
+  I want to talk to you if you have the truth and you are on the right.<br/>
+  I want to talk to you if you have the truth and you are on the left.<br/>
   Otherwise I will keep on thinking.<br/>
   Detached from the community stream.<br/>
   And figure out what's going on myself.
