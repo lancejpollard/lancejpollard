@@ -28,7 +28,7 @@ I find great interest in math, life, science, religion, language, government, an
 <p align="center">
 Making movement toward the center.<br/>
 Enjoying playing with models of information and computation.<br/>
-Hanging out with my wonderful wife and puppy.
+Hanging out with my wonderful wife and puppy.<br/>
 Archived on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.
 </p>
 
