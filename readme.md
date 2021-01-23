@@ -14,7 +14,7 @@ I find great interest in math, life, science, religion, language, government, an
   I don't watch any TV.<br/>
   I read journal articles.<br/>
   I study people's code.<br/>
-  I think about how to model the universe.<br/>
+  I ask a lot of questions.<br/>
 </p>
 
 <p align="center">
