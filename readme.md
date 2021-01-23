@@ -20,7 +20,7 @@ I find great interest in government, business, science, math, language, religion
 <p align="center">
   If you have the truth and you are on the right, I want to talk to you.<br/>
   If you have the truth and you are on the left, I want to talk to you.<br/>
-  Otherwise I will keep on thinking, detached from the input stream, and figure out a model myself.
+  Otherwise I will keep on thinking, detached from the community stream, and figure out a model myself.
 </p>
 
 <p align="center">
