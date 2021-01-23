@@ -26,7 +26,7 @@ Government
 <p align="center">
   I want to talk to you if you have the truth and you are on the right.<br/>
   I want to talk to you if you have the truth and you are on the left.<br/>
-  Otherwise <a href="https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s">I will keep digging</a>.<br/>
+  <a href="https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s">Otherwise I will keep digging</a>.<br/>
   <a href="https://www.youtube.com/watch?v=mBgviceBzFs#t=5m20s">Riding the spiral</a>.<br/>
   <a href="https://www.youtube.com/watch?v=GIuZUCpm9hc#t=2m55s">Feeling the change consume me</a>.
 </p>
