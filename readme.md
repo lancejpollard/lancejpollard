@@ -8,8 +8,6 @@
 I find great interest in open source, startups, computer science, math, language, the universe, and the mind.<br/>
 </p>
 
-<br/>
-
 <p align="center">
   I don't read any news websites.<br/>
   I don't listen to any podcasts.<br/>
@@ -19,15 +17,11 @@ I find great interest in open source, startups, computer science, math, language
   I think about how to model the universe.<br/>
 </p>
 
-<br/>
-
 <p align="center">
   If you have the truth and you are on the right, I want to talk to you.<br/>
   If you have the truth and you are on the left, I want to talk to you.<br/>
   Otherwise I will keep on thinking, detached from the input stream, and figure out a model myself.
 </p>
-
-<br/>
 
 <p align="center">
 Making movement toward the center.<br/>
