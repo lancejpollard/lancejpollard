@@ -26,9 +26,9 @@ Government
 <p align="center">
   I want to talk to you if you have the truth and you are on the right.<br/>
   I want to talk to you if you have the truth and you are on the left.<br/>
-  Otherwise I will keep on thinking.<br/>
+  Otherwise [I will keep digging](https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s).<br/>
   Detached from the community stream.<br/>
-  And figure out what's going on myself.
+  Until I find something.
 </p>
 
 <p align="center">
