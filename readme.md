@@ -15,9 +15,9 @@ Government
 </p>
 
 <p align="center">
-  I don't read any news websites.<br/>
-  I don't listen to any podcasts.<br/>
-  I don't watch any TV.<br/>
+  I don't read news.<br/>
+  I don't watch TV.<br/>
+  I don't listen to radio.<br/>
   I read journal articles.<br/>
   I study people's code.<br/>
   I ask a lot of questions.<br/>
