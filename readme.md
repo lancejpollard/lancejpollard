@@ -8,6 +8,8 @@
 I find great interest in open source, startups, computer science, math, language, the universe, and the mind.<br/>
 </p>
 
+<br/>
+
 <p align="center">
 Making movement toward the center.<br/>
 Enjoying playing with models of information and computation.<br/>
