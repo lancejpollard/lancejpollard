@@ -26,14 +26,14 @@ Government
 <p align="center">
   I want to talk to you if you have the truth and you are on the right.<br/>
   I want to talk to you if you have the truth and you are on the left.<br/>
-  Otherwise [I will keep digging](https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s).<br/>
-  Detached from the community stream.<br/>
-  Until I find something.
+  Otherwise <a href="https://www.youtube.com/watch?v=NfpwKs1REg0#t=4m19s">I will keep digging</a>.<br/>
+  <a href="https://www.youtube.com/watch?v=mBgviceBzFs#t=5m20s">Riding the spiral</a>.<br/>
+  <a href="https://www.youtube.com/watch?v=GIuZUCpm9hc#t=2m55s">Feeling the change consume me</a>.
 </p>
 
 <p align="center">
-Making movement toward the center.<br/>
-Enjoying playing with models of information and computation.<br/>
+  <a href="https://www.audible.com/pd/Tao-Te-Ching-Audiobook/B002V8DJSO">Making movement toward the center</a>.<br/>
+  <a href="https://www.amazon.com/Cellular-Automata-Hyperbolic-Spaces-Theory/dp/1933153040">Enjoying playing with models of information and computation</a>.<br/>
 Hanging out with my wonderful wife and puppy.<br/>
 Archived on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.
 </p>
