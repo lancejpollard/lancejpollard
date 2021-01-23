@@ -31,12 +31,6 @@ Government
   <a href="https://www.youtube.com/watch?v=1rkNR12j1pI">I want to talk to you if you have the truth and you are on the right</a><br/>
 </p>
 
-<p align="center">
-Lance<br/>
-Joseph<br/>
-Pollard
-</p>
-
 <br/>
 <br/>
 <br/>
