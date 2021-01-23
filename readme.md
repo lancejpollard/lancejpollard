@@ -31,6 +31,14 @@ Government
   <a href="https://www.youtube.com/watch?v=GIuZUCpm9hc#t=2m55s">I wanna feel the metamorphosis and cleansing I've endured within my shadow</a><br/>
 </p>
 
+<p align="center">
+I<br/>
+am<br/>
+Lance<br/>
+Joseph<br/>
+Pollard
+</p>
+
 <br/>
 <br/>
 <br/>
