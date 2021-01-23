@@ -5,13 +5,13 @@
 <br/>
 
 <p align="center">
-Math<br/>
 Life<br/>
+Math<br/>
 Science<br/>
+Business<br/>
 Religion<br/>
 Language<br/>
-Government<br/>
-Business
+Government
 </p>
 
 <p align="center">
