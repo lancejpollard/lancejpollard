@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-I find great interest in government, business, math, science, religion, language, and life.<br/>
+I find great interest in math, life, science, religion, language, government, and business.<br/>
 </p>
 
 <p align="center">
