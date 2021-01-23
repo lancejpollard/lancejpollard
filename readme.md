@@ -19,8 +19,8 @@ Government
   I don't read news<br/>
   I don't listen to radio<br/>
   I read journal articles<br/>
-  I study people's code<br/>
   I ask a lot of questions<br/>
+  I study the code of coders<br/>
 </p>
 
 <p align="center">
