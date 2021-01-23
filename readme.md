@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-I find great interest in open source, startups, computer science, math, language, the universe, and the mind.<br/>
+I find great interest in government, business, science, math, language, the universe, and communication.<br/>
 </p>
 
 <p align="center">
