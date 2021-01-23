@@ -6,8 +6,8 @@
 
 <p align="center">
 Life<br/>
-Math<br/>
-Science<br/>
+  <a href="https://www.amazon.com/Cellular-Automata-Hyperbolic-Spaces-Theory/dp/1933153040">Math</a><br/>
+<a href="https://www.amazon.com/Associative-Computing-Programming-Massively-Computers/dp/0306439875">Science</a><br/>
 Religion<br/>
 Business<br/>
 Language<br/>
