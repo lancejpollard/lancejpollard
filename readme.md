@@ -32,10 +32,10 @@ Government
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=FssULNGSZIA">Enjoying playing with models of information and computation</a>.<br/>
+  <a href="https://www.youtube.com/watch?v=MM62wjLrgmA">Making movement toward the center</a>.<br/>
+  Archived on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.<br/>
 Hanging out with my wonderful wife and puppy.<br/>
-Archived on <a href="https://stackoverflow.com/users/169992/lance-pollard">StackOverflow</a> or <a href="https://www.linkedin.com/in/lancejpollard/">LinkedIn</a>.<br/>
-  <a href="https://www.youtube.com/watch?v=MM62wjLrgmA">Making movement toward the center</a>.
+  <a href="https://www.youtube.com/watch?v=FssULNGSZIA">Enjoying playing with models of information and computation</a>.
 </p>
 
 <br/>
