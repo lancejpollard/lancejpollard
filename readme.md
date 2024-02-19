@@ -11,6 +11,8 @@ On the side over the years I have made a few simple side projects, mostly in Nod
 
 I also spent a few years during 2017-2018 focusing full time on Computer Science, Algorithms, Data Structures, Math, Type Theory, Compilers, Operating System fundamentals, and Programming Languages, so I could try and create my ideal programming language. Working at startups is a place to use the machete and hack through the weeds in uncharted but profitable new territory, like the old explorers. Side projects such as these, on the other hand, provide me a place to explore the more "research and development" side of me, and spend a bit more time studying theory and absorbing the beauty rather than just plowing through the forest with the machete.
 
+**Side note**: My "machete" metaphor is basically, get what needs to be done done while working on a startup idea, so you can get product market fit, or if you have that, so you can ship fast and often. You use existing tools and don't waste time perfecting things, just do what needs to be done and do it nicely, balancing speed with perfection. I like this metaphor becasue when in the zone in these two forms (theory vs. practical), you can really feel how it would have been "back in the day" haha.
+
 But anyways, here's some things I've hacked on over the years.
 
 
