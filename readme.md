@@ -1,7 +1,7 @@
 
 ## Work Projects
 
-At work for the past 5+ years I have been doing mostly React.js (v16-18) and TypeScript, with GraphQL APIs, working on SaaS products on the Frontend as a **Senior / Staff engineer**. I was lucky enough to be an early or so employee at @segmentio back in the day when component.js was the new hotness and React had barely come onto the scene.
+At work for the past 5+ years I have been doing mostly React.js (v16-18) and TypeScript, with GraphQL APIs, working on SaaS products on the Frontend as a **Senior / Staff Frontend Engineer**. I was lucky enough to be an early or so employee at @segmentio back in the day when component.js was the new hotness and React had barely come onto the scene. I have avoided becoming a manager up til today because I like focusing purely on code and implementations, and getting things done in that regard. Maybe one day I'll try management, I just fear it to some degree for some reason.
 
 I love working at startups or large companies with a freeing sort of startup vibe (working in smallish teams) because you can build powerful things quickly, even if the deployment cycle isn't necessarily "deploy every 5 minutes", that's okay. I focus mainly on the Frontend, working closely with Product managers and Design leads, as well as the frontend and backend teams. I like the frontend so I can learn better to think like a designer, without going design full-time. I have some backend experience from a while back, but wouldn't be your go-to guy for a backend/infra-heavy project these days.
 
