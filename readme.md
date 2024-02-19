@@ -1,14 +1,32 @@
 
-<br/>
-<br/>
-<br/>
-<br/>
+## Work Projects
 
-<p align="center">
-  One of my main goals in life is to understand and explain all of <a href="https://www.amazon.com/Cellular-Automata-Hyperbolic-Spaces-Theory/dp/1933153040">this</a>.
-</p>
+At work for the past 5+ years I have been doing mostly React.js (v16-18) and TypeScript, with GraphQL APIs, working on SaaS products on the Frontend as a **Senior / Staff engineer**. I was lucky enough to be an early or so employee at @segmentio back in the day when component.js was the new hotness and React had barely come onto the scene.
 
-<br/>
-<br/>
-<br/>
-<br/>
+I love working at startups or large companies with a freeing sort of startup vibe (working in smallish teams) because you can build powerful things quickly, even if the deployment cycle isn't necessarily "deploy every 5 minutes", that's okay. I focus mainly on the Frontend, working closely with Product managers and Design leads, as well as the frontend and backend teams. I like the frontend so I can learn better to think like a designer, without going design full-time. I have some backend experience from a while back, but wouldn't be your go-to guy for a backend/infra-heavy project these days.
+
+## Side Projects
+
+On the side over the years I have made a few simple side projects, mostly in Node.js or Next.js hosted on Vercel, though I am tinkering with one that needs to go lower-level than Vercel and use Google Cloud Platform (GCP), specifically the serverless Google Cloud Run (GCR). I want to get more backend/full-stack experience (again, it's been a while, 2010-era-ish), so hacking on side projects which use some of that more, alongside the nice and clean and simple Vercel/Next.js frontend app.
+
+I also spent a few years during 2017-2018 focusing full time on Computer Science, Algorithms, Data Structures, Math, Type Theory, Compilers, Operating System fundamentals, and Programming Languages, so I could try and create my ideal programming language. Working at startups is a place to use the machete and hack through the weeds in uncharted but profitable new territory, like the old explorers. Side projects such as these provides me a place to explore the more "research and development" side of me, and spend a bit more time studying theory and absorbing the beauty rather than just plowing through the forest with the machete.
+
+But anyways, here's some things I've hacked on over the years.
+
+
+|                                                              Site                                                              | Description                                                                                                              |
+| :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
+|                                                [`tone.surf`](https://tone.surf)                                                | **The Tone Writing System**                                                                                       |
+|  <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
+|                                                [`tune.surf`](https://tune.surf)                                                | **The Tune Spoken Language**                                                                                      |
+|   <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/bird.svg?raw=true' height="92"></a>    | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
+|                                                [`leaf.surf`](https://leaf.surf)                                                | **The LeafText Data Modeling Language Docs**                                                                      |
+|   <a href="https://leaf.surf"><img src='https://github.com/termsurf/leaf/blob/make/view/link.svg?raw=true' height="92"></a>    | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
+|                                                [`seed.surf`](https://seed.surf)                                                | **The LeafText Programming Framework SeedLeaf**                                                                   |
+| <a href="https://seed.surf"><img src='https://github.com/termsurf/seed.leaf/blob/make/view/base.svg?raw=true' height="92"></a> | A "programming framework" built on top of LeafText, transforming it into something like code.                     |
+|                                                [`task`](https://github.com/termsurf/task)                                                | **An abstraction over commmon CLI tasks**                                                                   |
+| <a href="https://github.com/termsurf/task"><img src='https://github.com/termsurf/tree.leaf/blob/make/view/tree.gif?raw=true' height="92"></a> | A framework for building abstractions around CLI tools for Node.js and the Browser.                     |
+
+Also, one of my main goals in life is to understand and explain all of <a href="https://www.amazon.com/Cellular-Automata-Hyperbolic-Spaces-Theory/dp/1933153040">Cellular Automata in Hyperbolic Spaces</a>.
+
+Finally, follow [@VictorTaelin](https://twitter.com/VictorTaelin) if you're not already, on [GitHub](https://github.com/VictorTaelin) and [Twitter](https://twitter.com/VictorTaelin). After digging into programming languages years ago I ran into his full-fleged theorem-proving-capable functional language [Kind](https://github.com/HigherOrderCO/Kind), which now has a massively parallel functional runtime in Rust to back it up, [HVM](https://github.com/HigherOrderCO/HVM). Those two projects, built upon the ideas of [Interaction Nets](https://www.semanticscholar.org/paper/Interaction-Combinators-Lafont/6cfe09aa6e5da6ce98077b7a048cb1badd78cc76), seem to perfectly slve the problem of building an optimal programmiing language (even though I would prefer imperative over functional designs haha!). So I'm watching that like a hawk, waiting for the day it takes over the web :). You should too!
